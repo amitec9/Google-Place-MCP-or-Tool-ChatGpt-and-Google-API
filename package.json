@@ -1,0 +1,30 @@
+{
+  "name": "google-place-mcp-or-tool-chatgpt-and-google-api",
+  "version": "1.0.0",
+    "type": "module",
+  "description": "Google Places MCP (Model Context Protocol) or ChatGPT Tool is used to bring Google Places data (place details, nearby search, reviews) directly into AI workflows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitec9/Google-Place-MCP-or-Tool-ChatGpt-and-Google-API.git"
+  },
+  "keywords": [
+    "google",
+    "place",
+    "mcp"
+  ],
+  "author": "amit kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitec9/Google-Place-MCP-or-Tool-ChatGpt-and-Google-API/issues"
+  },
+  "homepage": "https://github.com/amitec9/Google-Place-MCP-or-Tool-ChatGpt-and-Google-API#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2",
+    "request": "^2.88.2"
+  }
+}
